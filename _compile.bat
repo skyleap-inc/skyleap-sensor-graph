@@ -1,0 +1,1 @@
+gcc skysense.c main.c -o main.exe
